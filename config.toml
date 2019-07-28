@@ -1,4 +1,4 @@
-baseurl = "https://huangsihui.netlify.com/"
+baseurl = "https://hsh95.github.io/"
 title = "黄斯慧的个人网站"
 # theme = "portfolio"
 languageCode = "zh-cn"
@@ -15,8 +15,8 @@ paginate = 5
   description = "Collections of my work."
   copyright = "&copy;2019 HuangSihui"
   sidebarAbout = [
-    "我是一位有着？年经验的创意插画师和平面设计师。",
-    "目前在深圳。"
+    "一名陈列设计师和手绘爱好者。",
+    "目前就职于深圳。"
   ]
   # Contact page
      # Since this template is static, the contact form uses www.formspree.io as a
