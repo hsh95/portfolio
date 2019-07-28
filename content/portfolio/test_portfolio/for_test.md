@@ -1,13 +1,13 @@
 ---
-draft: false
-image: "http://www.lottanieminen.com/thumbs/graphicdesign/cienne-book/cienne-book-spread-05-2250x1500.jpg"
+image: http://www.lottanieminen.com/thumbs/graphicdesign/cienne-book/cienne-book-spread-05-2250x1500.jpg
 showonlyimage: false
-date: 2019-07-13T15:22:01+08:00
-title: "排版测试页面"
-description: "排版测试页面"
-weight: 1
----
+date: 2019-07-13T07:22:01.000+00:00
+title: 排版测试页面
+description: 排版测试页面
+weight: "1"
+draft: true
 
+---
 <!--more-->
 
 **这个页面用作排版测试**

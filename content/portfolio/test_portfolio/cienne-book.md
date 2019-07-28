@@ -1,15 +1,20 @@
 ---
-draft: false
-weight: 1
-image: "http://www.lottanieminen.com/thumbs/graphicdesign/cienne-book/cienne-book-cover-02-2250x1500.jpg"
+weight: "1"
+image: http://www.lottanieminen.com/thumbs/graphicdesign/cienne-book/cienne-book-cover-02-2250x1500.jpg
 showonlyimage: false
+title: cienne-book
+date: 2019-07-14T10:31:56.000+00:00
+description: 'Created as a limited edition in 2018, the Cienne brand book is an extension
+  of the ready-to-wear brand''s visual identity ( see project here ). Like the garments,
+  the book is carefully put together from high quality materials that embody Cienne''s
+  attention to detail and elevated aesthetic: the cover is a silk-screened acetate
+  sleeve over fabric swatches pulled from the brand''s various collections, while
+  the outer box matches the vibrant yellow and pink from the Fall–Winter ''18 collection.
+  The French folded interior pages feature the brand''s two latest collections, along
+  with video stills and brand story.'
+draft: true
 
-title: "cienne-book"
-date: 2019-07-14T18:31:56+08:00
-description: "Created as a limited edition in 2018, the Cienne brand book is an extension of the ready-to-wear brand's visual identity ( see project here ). Like the garments, the book is carefully put together from high quality materials that embody Cienne's attention to detail and elevated aesthetic: the cover is a silk-screened acetate sleeve over fabric swatches pulled from the brand's various collections, while the outer box matches the vibrant yellow and pink from the Fall–Winter '18 collection. The French folded interior pages feature the brand's two latest collections, along with video stills and brand story."
 ---
-
-
 <!--more-->
 Client: Cienne  
 Services: Book Design  
