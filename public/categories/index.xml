@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on 黄斯慧的个人网站</title>
+    <link>https://hsh95.github.io/categories/</link>
+    <description>Recent content in Categories on 黄斯慧的个人网站</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Mon, 15 Jul 2019 00:00:00 +0800</lastBuildDate>
+    
+	<atom:link href="https://hsh95.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>分类1</title>
+      <link>https://hsh95.github.io/categories/%E5%88%86%E7%B1%BB1/</link>
+      <pubDate>Mon, 15 Jul 2019 00:00:00 +0800</pubDate>
+      
+      <guid>https://hsh95.github.io/categories/%E5%88%86%E7%B1%BB1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>分类3</title>
+      <link>https://hsh95.github.io/categories/%E5%88%86%E7%B1%BB3/</link>
+      <pubDate>Mon, 15 Jul 2019 00:00:00 +0800</pubDate>
+      
+      <guid>https://hsh95.github.io/categories/%E5%88%86%E7%B1%BB3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>分类2</title>
+      <link>https://hsh95.github.io/categories/%E5%88%86%E7%B1%BB2/</link>
+      <pubDate>Sun, 14 Jul 2019 19:50:55 +0800</pubDate>
+      
+      <guid>https://hsh95.github.io/categories/%E5%88%86%E7%B1%BB2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>周报</title>
+      <link>https://hsh95.github.io/categories/%E5%91%A8%E6%8A%A5/</link>
+      <pubDate>Sun, 14 Jul 2019 15:02:30 +0800</pubDate>
+      
+      <guid>https://hsh95.github.io/categories/%E5%91%A8%E6%8A%A5/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>卡通</title>
+      <link>https://hsh95.github.io/categories/%E5%8D%A1%E9%80%9A/</link>
+      <pubDate>Sun, 14 Jul 2019 15:02:13 +0800</pubDate>
+      
+      <guid>https://hsh95.github.io/categories/%E5%8D%A1%E9%80%9A/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>素描</title>
+      <link>https://hsh95.github.io/categories/%E7%B4%A0%E6%8F%8F/</link>
+      <pubDate>Sun, 14 Jul 2019 15:01:59 +0800</pubDate>
+      
+      <guid>https://hsh95.github.io/categories/%E7%B4%A0%E6%8F%8F/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>插画</title>
+      <link>https://hsh95.github.io/categories/%E6%8F%92%E7%94%BB/</link>
+      <pubDate>Sun, 14 Jul 2019 15:01:15 +0800</pubDate>
+      
+      <guid>https://hsh95.github.io/categories/%E6%8F%92%E7%94%BB/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

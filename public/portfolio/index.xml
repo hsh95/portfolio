@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>作品展 on 黄斯慧的个人网站</title>
+    <link>https://hsh95.github.io/portfolio/</link>
+    <description>Recent content in 作品展 on 黄斯慧的个人网站</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Sun, 14 Jul 2019 10:51:54 +0000</lastBuildDate>
+    
+	<atom:link href="https://hsh95.github.io/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>cienne-fw15</title>
+      <link>https://hsh95.github.io/portfolio/test_portfolio/cienne-fw15/</link>
+      <pubDate>Sun, 14 Jul 2019 10:51:54 +0000</pubDate>
+      
+      <guid>https://hsh95.github.io/portfolio/test_portfolio/cienne-fw15/</guid>
+      <description>Client: Cienne
+Services: Art Direction
+Year: 2015
+Campaign photography: Matthew Sprout
+Styling: Claudia Cifu
+Cienne is a New York-based women’s ready-to-wear collection. The brand combines a socially and environmentally conscious thinking with an elevated aesthetic. Cienne’s Fall—Winter ’15 campaign was created to complement the visual identity ( visit ), setting the look and feel for following collection imagery.</description>
+    </item>
+    
+  </channel>
+</rss>

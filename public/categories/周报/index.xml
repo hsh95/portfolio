@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>周报 on 黄斯慧的个人网站</title>
+    <link>https://hsh95.github.io/categories/%E5%91%A8%E6%8A%A5/</link>
+    <description>Recent content in 周报 on 黄斯慧的个人网站</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Sun, 14 Jul 2019 15:02:30 +0800</lastBuildDate>
+    
+	<atom:link href="https://hsh95.github.io/categories/%E5%91%A8%E6%8A%A5/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>一周记录</title>
+      <link>https://hsh95.github.io/blog/blog_test_pages/ps%E5%BF%AB%E6%8D%B7%E9%94%AE/</link>
+      <pubDate>Sun, 14 Jul 2019 15:02:30 +0800</pubDate>
+      
+      <guid>https://hsh95.github.io/blog/blog_test_pages/ps%E5%BF%AB%E6%8D%B7%E9%94%AE/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
