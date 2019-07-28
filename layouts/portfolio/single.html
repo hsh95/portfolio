@@ -1,0 +1,18 @@
+{{ define "main" }}
+<div class="col-xs-12 col-sm-8 col-md-9 content-column white-background">
+  {{ partial "mobile_nav_toggle.html" . }}
+  <div class="row">
+    <div class="col-lg-8">
+      <div class="content-column-content">
+        <h4>{{ .Title }}</h4>
+        <hr>
+        {{ .Content }}
+      </div>
+      <div id="click-img-container">
+        <!-- <span class="close">&times;</span> -->
+        <img src="" alt="Big Image">
+      </div>
+    </div>
+  </div>
+</div>
+{{ end }}

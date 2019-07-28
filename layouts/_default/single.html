@@ -1,0 +1,29 @@
+{{ define "main" }}
+<div class="col-xs-12 col-sm-8 col-md-9 content-column white-background">
+  {{ partial "mobile_nav_toggle.html" . }}
+  <div class="row">
+    <div class="col-lg-8">
+      <div class="content-column-content blog-content">
+        <h2>{{ .Title }}</h2>
+
+        <time>{{ .Date.Format (default "January 2, 2006" $.Site.Params.dateFormat) }}</time>&nbsp;&nbsp;&nbsp;</li>
+        {{- if .Params.categories }}
+        {{- range .Params.categories }}
+        <a href="{{ "/" | relURL }}categories/{{ . | urlize }}/">
+          <i class="fa fa-folder"></i>
+          {{ . }}
+        </a>
+        {{- end }}
+        <hr>
+
+        {{ .Content }}
+        {{ end }}
+      </div>
+      <div id="click-img-container">
+        <!-- <span class="close">&times;</span> -->
+        <img src="" alt="Big Image">
+      </div>
+    </div>
+  </div>
+</div>
+{{ end }}

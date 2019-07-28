@@ -1,0 +1,88 @@
+
+
+.content-column-content img {
+  /* border-radius: 5px; */
+  cursor: pointer;
+  transition: 0.7s;
+}
+
+.content-column-content img:hover {opacity: 0.9;}
+
+
+#click-img-container {
+    display: none; /* Hidden by default */
+    position: fixed; /* Stay in place */
+    left: 0;
+    top: 0;
+    width: 100%; /* Full width */
+    height: 100%; /* Full height */
+    text-align: center;
+    background-color: rgb(0,0,0); /* Fallback color */
+    background-color: rgba(0,0,0,0.9); /* Black w/ opacity */
+}
+
+#click-img-container img {
+    cursor: pointer;
+    object-fit: contain;
+    height: auto;
+    width: auto;
+    vertical-align: middle;
+    animation-name: zoom;
+    animation-duration: 0.7s;
+}
+/* Add Animation - Zoom in the Modal */
+
+@keyframes zoom {
+  from {transform:scale(0.2)} 
+  to {transform:scale(1)}
+}
+
+/* The Close Button */
+.close {
+    position: absolute;
+    top: 15px;
+    right: 35px;
+    color: #ef5285;
+    font-size: 7em;
+    font-weight: bold;
+    transition: 0.3s;
+  }
+  
+.close:hover,
+.close:focus {
+  color: #ef5285;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+
+/* blog */
+
+/* List page */
+.list .article {
+  padding-bottom: 40px;
+  margin-bottom: 40px;
+  border-bottom: solid 1px lightgray;
+}
+
+
+.article-meta {
+  list-style-type: none;
+  padding: 0;
+  margin: 5px 0 40px 0;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-align-items: flex-end;
+  align-items: flex-end;
+  -webkit-flex-wrap: wrap;
+  flex-wrap: wrap;
+}
+
+.article-meta li.article-meta-date {
+  padding: 0;
+  padding-right: 24px;
+}
+
+.blog-content p, .blog-content li{
+  color:#333 !important;
+}
