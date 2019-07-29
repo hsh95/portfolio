@@ -6,7 +6,6 @@ title: google-calendar
 date: 2019-07-14T11:05:05.000+00:00
 description: ''
 draft: true
-
 ---
 Client: Google  
 Services: Calendar Illustration  
